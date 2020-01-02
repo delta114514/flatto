@@ -19,7 +19,9 @@ Powered by [Yamato Nagata](https://twitter.com/514YJ)
 
 # Instllation
 
-`$ pip install flatto`
+```bash
+$ pip install flatto
+```
 
 # Usage
 
