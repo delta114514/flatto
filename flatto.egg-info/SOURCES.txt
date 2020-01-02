@@ -1,0 +1,10 @@
+README.md
+setup.py
+flatto/__about__.py
+flatto/__init__.py
+flatto/flatto.py
+flatto.egg-info/PKG-INFO
+flatto.egg-info/SOURCES.txt
+flatto.egg-info/dependency_links.txt
+flatto.egg-info/not-zip-safe
+flatto.egg-info/top_level.txt
